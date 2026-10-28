@@ -22,4 +22,4 @@ def get_amount(amount = 5):
             "answer":q["correct_answer"]
         }
         formatted_quiz.append(questions_dict)
-        return formatted_quiz
+    return formatted_quiz
